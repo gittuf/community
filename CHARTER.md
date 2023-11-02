@@ -1,6 +1,6 @@
 # Technical Charter (the "Charter") for gittuf a Series of LF Projects, LLC
 
-**Adopted:** TODO
+**Adopted:** November 2nd, 2023
 
 This Charter sets forth the responsibilities and procedures for technical
 contribution to, and oversight of, the gittuf open source project, which has
