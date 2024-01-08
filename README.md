@@ -14,4 +14,5 @@ meeting on the first Friday of every month at 12 PM eastern time.
 | Repository | https://github.com/gittuf/gittuf |
 | Website | https://gittuf.dev |
 | Slack | https://openssf.slack.com/archives/C05QVUN4WUW |
+| Mailing List | gittuf-community@lists.openssf.org ([archive](https://lists.openssf.org/g/gittuf-community/topics)) |
 | Community Meeting Notes | https://docs.google.com/document/d/1tXFCVUHsICLpLKxcGvhzBDUWmpsY1LQvysFaX6AJRkk/edit?usp=sharing |
