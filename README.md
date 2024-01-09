@@ -1,4 +1,4 @@
-# gittuf/community
+![gittuf logo](./artwork/PNG/gittuf_horizontal-color.png)
 
 gittuf provides a security layer for Git repositories. The project is part of
 the Open Source Security Foundation's sandbox. This repository contains
