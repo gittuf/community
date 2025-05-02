@@ -1,6 +1,6 @@
 # Technical Steering Committee (TSC)
 
-The current gittuf is composed of the following individuals.
+The current gittuf TSC is composed of the following individuals.
 
 ## Justin Cappos
 
