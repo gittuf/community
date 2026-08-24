@@ -10,7 +10,7 @@ GitHub: @JustinCappos
 
 ## Aditya Sirish A Yelgundhalli
 
-Affiliation: New York University (academia)
+Affiliation: Bloomberg (industry)
 
 GitHub: @adityasaky
 
