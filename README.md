@@ -13,6 +13,11 @@ maintainer meeting **every Monday at 8:30 AM Eastern Time**. See
 [https://openssf.org/getinvolved/](https://openssf.org/getinvolved/) for meeting
 details.
 
+## Friends of gittuf
+
+For a list of projects that have adopted gittuf, see our [friends
+page](/friends/README.md).
+
 | Reference                      | Link                                                                                                                                                                                 |
 |-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Repository                    | [github.com/gittuf/gittuf](https://github.com/gittuf/gittuf)                                                                                                                         |
