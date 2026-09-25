@@ -25,19 +25,51 @@ discussions or just generally helping out.
 
 - Keep it up!
 
+### Reviewers
+
+Reviewers are responsible for reviewing PRs and issues as they are opened. They
+assist maintainers by helping to triage newly-opened PRs and issues and ensure
+that the contribution is of good quality and valid.
+
+Approval reviews by reviewers do not count towards the approval threshold for a
+PR, only reviews from maintainers will count.
+
+**Defined by:** Listed in the `Reviewers` section of `MAINTAINERS.txt` file in
+the project repository
+
+#### Pre-requisites
+
+- Helped to review submissions to the codebase (e.g., provided genuine reviews
+  on 5 PRs that were merged to the codebase)
+- Be invited by a maintainer of the project
+
+#### Responsibilities
+
+- Demonstrate sound technical judgment
+- Review pull requests as they are opened
+- Participate in gittuf community meetings, if possible
+
+#### Promotion process
+
+- Must be nominated by a maintainer
+    - With no objections from other maintainers
+    - Done through PR to update the `MAINTAINERS.txt` file
+
 ### Maintainers
 
 Maintainers are responsible for the project's overall health. They are the only
 ones who can approve and merge code contributions.
 
-**Defined by:** Listed in the `MAINTAINERS.txt` file in the project repository
+**Defined by:** Listed in the `Maintainers` section of  `MAINTAINERS.txt` file
+in the project repository
 
 #### Pre-requisites
 
 - Provided substantial improvements to the codebase (e.g., adding 5 substantial
   PRs to the codebase)
-- Helped to review other substantial submissions to the codebase (e.g., reviewed
-  10 PRs that were merged to the codebase)
+- Helped to review other substantial submissions to the codebase (e.g., provided
+  genuine reviews on 10 PRs that were merged to the codebase)
+- Participated as part of the reviewers group as defined above
 
 #### Responsibilities
 
@@ -70,14 +102,14 @@ forewarning for the others to prepare. However, sometimes "life happens".
 Therefore, the change in responsibilities will be understood to take immediate
 effect, regardless of whether the issue/PR has been acknowledged or merged.
 
-However, should a Maintainer be deemed inactive for a significant period, any
-Community Member or above may write an issue/PR requesting their removal from
-the ranks (and `@mentioning` the inactive contributor in the hopes of drawing
-their attention). The request must receive support (in comments) from a majority
-of Maintainers to proceed.
+However, should a Reviewer or Maintainer be deemed inactive for a significant
+period, any Community Member or above may write an issue/PR requesting their
+removal from the ranks (and `@mentioning` the inactive contributor in the hopes
+of drawing their attention). The request must receive support (in comments) from
+a majority of Maintainers to proceed.
 
-In all cases, the maintainer's entry in `MAINTAINERS.txt` file will be updated
-to reflect their emeritus status.
+In all cases, the reviewer's or maintainer's entry in `MAINTAINERS.txt` file
+will be updated to reflect their emeritus status.
 
 [OpenSSF Code of Conduct]: /CODE-OF-CONDUCT.md
 [Contribution Guide]: https://github.com/gittuf/gittuf/blob/main/CONTRIBUTING.md
