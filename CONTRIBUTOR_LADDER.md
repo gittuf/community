@@ -6,6 +6,7 @@ more-involved roles within the gittuf project.
 
 - [Roles](#roles)
     - [Community members](#community-members)
+    - [Reviewers](#reviewers)
     - [Maintainers](#maintainers)
 - [Inactive members](#inactive-members)
 
