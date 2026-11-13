@@ -21,3 +21,4 @@ details.
 | gittuf OpenSSF Slack Channel  | [#gittuf](https://openssf.slack.com/archives/C05QVUN4WUW)                                                                                                                            |
 | Mailing List                  | gittuf-community@lists.openssf.org ([archive](https://lists.openssf.org/g/gittuf-community/topics))                                                                                 |
 | Community Meeting Notes       | [2026](https://docs.google.com/document/d/1ntLvHqXu-qmKJwt2wAtob69c3Vjudxj61Te0tCVVnVo/edit), [2025](https://docs.google.com/document/d/1EbFAZu_pxayLwr4QWxhKCSZYhyJAcya7K-b_kuXlmpU/edit), [2024](https://docs.google.com/document/d/1tXFCVUHsICLpLKxcGvhzBDUWmpsY1LQvysFaX6AJRkk/edit) |
+| gittuf Friends | [friends](/friends/README.md) |
